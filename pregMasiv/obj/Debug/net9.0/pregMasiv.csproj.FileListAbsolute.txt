@@ -1,0 +1,14 @@
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\bin\Debug\net9.0\pregMasiv.exe
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\bin\Debug\net9.0\pregMasiv.deps.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\bin\Debug\net9.0\pregMasiv.runtimeconfig.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\bin\Debug\net9.0\pregMasiv.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\bin\Debug\net9.0\pregMasiv.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\pregMasiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\pregMasiv.AssemblyInfoInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\pregMasiv.AssemblyInfo.cs
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\pregMasiv.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\pregMasiv.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\refint\pregMasiv.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\pregMasiv.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\pregMasiv.genruntimeconfig.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\pregMasiv\obj\Debug\net9.0\ref\pregMasiv.dll

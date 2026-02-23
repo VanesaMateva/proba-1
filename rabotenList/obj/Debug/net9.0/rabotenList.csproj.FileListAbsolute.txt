@@ -1,0 +1,14 @@
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\bin\Debug\net9.0\rabotenList.exe
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\bin\Debug\net9.0\rabotenList.deps.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\bin\Debug\net9.0\rabotenList.runtimeconfig.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\bin\Debug\net9.0\rabotenList.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\bin\Debug\net9.0\rabotenList.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\rabotenList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\rabotenList.AssemblyInfoInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\rabotenList.AssemblyInfo.cs
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\rabotenList.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\rabotenList.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\refint\rabotenList.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\rabotenList.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\rabotenList.genruntimeconfig.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\rabotenList\obj\Debug\net9.0\ref\rabotenList.dll

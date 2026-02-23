@@ -1,0 +1,14 @@
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\bin\Debug\net9.0\find.exe
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\bin\Debug\net9.0\find.deps.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\bin\Debug\net9.0\find.runtimeconfig.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\bin\Debug\net9.0\find.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\bin\Debug\net9.0\find.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\find.AssemblyInfoInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\find.AssemblyInfo.cs
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\find.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\find.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\refint\find.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\find.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\find.genruntimeconfig.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\find\obj\Debug\net9.0\ref\find.dll

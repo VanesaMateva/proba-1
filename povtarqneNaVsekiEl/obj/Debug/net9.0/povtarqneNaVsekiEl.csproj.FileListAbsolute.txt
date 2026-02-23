@@ -1,0 +1,14 @@
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\bin\Debug\net9.0\povtarqneNaVsekiEl.exe
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\bin\Debug\net9.0\povtarqneNaVsekiEl.deps.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\bin\Debug\net9.0\povtarqneNaVsekiEl.runtimeconfig.json
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\bin\Debug\net9.0\povtarqneNaVsekiEl.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\bin\Debug\net9.0\povtarqneNaVsekiEl.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\povtarqneNaVsekiEl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\povtarqneNaVsekiEl.AssemblyInfoInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\povtarqneNaVsekiEl.AssemblyInfo.cs
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\povtarqneNaVsekiEl.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\povtarqneNaVsekiEl.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\refint\povtarqneNaVsekiEl.dll
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\povtarqneNaVsekiEl.pdb
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\povtarqneNaVsekiEl.genruntimeconfig.cache
+C:\Users\1212-3\Documents\Ванеса Матева 9а\lista\povtarqneNaVsekiEl\obj\Debug\net9.0\ref\povtarqneNaVsekiEl.dll
