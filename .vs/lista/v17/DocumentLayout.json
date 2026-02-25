@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{394F2C75-D482-478D-9FDC-29E13493CD93}|rezultatiOtTestove\\rezultatiOtTestove.csproj|c:\\users\\1212-3\\documents\\\u0432\u0430\u043D\u0435\u0441\u0430 \u043C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\rezultatiottestove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{394F2C75-D482-478D-9FDC-29E13493CD93}|rezultatiOtTestove\\rezultatiOtTestove.csproj|solutionrelative:rezultatiottestove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72619FFC-788A-4B4F-8856-C1E1326FD2F1}|povtarqneNaVsekiEl\\povtarqneNaVsekiEl.csproj|c:\\users\\1212-3\\documents\\\u0432\u0430\u043D\u0435\u0441\u0430 \u043C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\povtarqnenavsekiel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72619FFC-788A-4B4F-8856-C1E1326FD2F1}|povtarqneNaVsekiEl\\povtarqneNaVsekiEl.csproj|solutionrelative:povtarqnenavsekiel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,6 +44,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\rezultatiOtTestove\\Program.cs",
+              "RelativeDocumentMoniker": "rezultatiOtTestove\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\rezultatiOtTestove\\Program.cs",
+              "RelativeToolTip": "rezultatiOtTestove\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T07:38:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\povtarqneNaVsekiEl\\Program.cs",
               "RelativeDocumentMoniker": "povtarqneNaVsekiEl\\Program.cs",
               "ToolTip": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\povtarqneNaVsekiEl\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\find\\Program.cs",
               "RelativeDocumentMoniker": "find\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "find\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T07:35:06.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T07:35:06.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\pregLists\\Program.cs",
               "RelativeDocumentMoniker": "pregLists\\Program.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "pregLists\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T07:35:22.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T07:35:22.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\pregMasiv\\Program.cs",
               "RelativeDocumentMoniker": "pregMasiv\\Program.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "pregMasiv\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwBYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T06:36:34.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T06:36:34.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\masiv\\Program.cs",
               "RelativeDocumentMoniker": "masiv\\Program.cs",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "masiv\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T07:02:09.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T07:02:09.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\rabotenList\\Program.cs",
               "RelativeDocumentMoniker": "rabotenList\\Program.cs",
@@ -111,8 +124,7 @@
               "RelativeToolTip": "rabotenList\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T06:43:20.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T06:43:20.52Z"
             }
           ]
         }

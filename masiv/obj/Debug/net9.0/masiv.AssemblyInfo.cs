@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("masiv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f157733b1570f117c3a33bef4185315366219003")]
 [assembly: System.Reflection.AssemblyProductAttribute("masiv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("masiv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

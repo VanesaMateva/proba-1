@@ -42,8 +42,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\povtarqneNaVsekiEl\\Program.cs",
               "RelativeDocumentMoniker": "povtarqneNaVsekiEl\\Program.cs",
-              "ToolTip": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\povtarqneNaVsekiEl\\Program.cs*",
-              "RelativeToolTip": "povtarqneNaVsekiEl\\Program.cs*",
+              "ToolTip": "C:\\Users\\1212-3\\Documents\\\u0412\u0430\u043D\u0435\u0441\u0430 \u041C\u0430\u0442\u0435\u0432\u0430 9\u0430\\lista\\povtarqneNaVsekiEl\\Program.cs",
+              "RelativeToolTip": "povtarqneNaVsekiEl\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T07:17:58.236Z",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "find\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T07:35:06.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-18T07:35:06.691Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "pregLists\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T07:35:22.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T07:35:22.368Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "pregMasiv\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwBYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T06:36:34.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T06:36:34.58Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "masiv\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T07:02:09.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T07:02:09.486Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "rabotenList\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T06:43:20.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T06:43:20.52Z"
             }
           ]
         }
